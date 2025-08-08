@@ -4067,6 +4067,18 @@ ol {
 .circle.blue {
     background-color: blue;
 }
+.circle.blue {
+    background-color: yellow;
+}
+.circle.white {
+    background-color: white;
+}
+.circle.purple {
+    background-color: purple;
+}
+.circle.pink {
+    background-color: pink;
+}
 
 .circle.other {
     background-color: #555;
